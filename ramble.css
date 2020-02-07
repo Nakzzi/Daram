@@ -1,6 +1,6 @@
 /** 이모티콘창에서 보이는 이모티콘 이미지 수정 **/ 
 
-.fr-command.fr-emoticon[data-param1=FBspiral] > img { 
+.fr-command.fr-emoticon[data-param1=FBSpiral] > img { 
 
      width: 30px !important; 
 
@@ -16,7 +16,7 @@
 
 /** 글작성 후 보이는 이미지 수정**/ 
 
-.fr-emoticon.fr-deletable > img[alt=FBspiral]{ 
+.fr-emoticon.fr-deletable > img[alt=FBSpiral]{ 
 
      width: 50px !important; 
 
