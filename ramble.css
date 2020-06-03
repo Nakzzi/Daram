@@ -87,21 +87,3 @@
     background-image: url('https://github.com/Nakzzi/Daram/blob/master/Ramooo.png?raw=true');
     background-size: 100%;
 }
-
-/** 이모티콘창에서 보이는 이모티콘 이미지 수정 **/
-.fr-command.fr-emoticon[data-param1=TBAngel] > img {
-    width: 30px !important;
-    height: 30px !important;
-    padding-left: 30px;
-    background-image: url('https://github.com/Nakzzi/Daram/blob/master/RamSOR.png?raw=true');
-    background-size: 100%;
-}
-
-/** 글작성 후 보이는 이미지 수정**/
-.fr-emoticon.fr-deletable > img[alt=TBAngel] {
-    width: 50px !important;
-    height: 50px !important;
-    padding-left: 50px;
-    background-image: url('https://github.com/Nakzzi/Daram/blob/master/RamSOR.png?raw=true');
-    background-size: 100%;
-}
